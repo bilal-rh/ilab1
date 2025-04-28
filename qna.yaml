@@ -5,46 +5,45 @@ document_outline: |
   Information about the Zee Zee Tech company including their mobile app products.
 seed_examples:
   - context: |
-     ## 1: Introduction to ZeeZeeTech
+      ## 1: Introduction to ZeeZeeTech
 
-## 1.1 Overview of ZeeZeeTech
+      ## 1.1 Overview of ZeeZeeTech
 
-ZeeZeeTech is a pioneering mobile technology company headquartered in San Francisco, California. Since its inception in 2020, the company has revolutionized digital experiences through intuitive, AI-powered applications. With a portfolio spanning productivity, health, finance, and entertainment, ZeeZeeTech serves over 100 million users globally.
+      ZeeZeeTech is a pioneering mobile technology company headquartered in San Francisco, California. Since its inception in 2020, the company has revolutionized digital experiences through intuitive, AI-powered applications. With a portfolio spanning productivity, health, finance, and entertainment, ZeeZeeTech serves over 100 million users globally.
 
-## 1.2 Mission &amp; Purpose
+      ## 1.2 Mission &amp; Purpose
 
-- Mission: "To bridge the gap between technology and everyday life through seamless, intuitive, and impactful mobile experiences."
-- Purpose: Empowering users with tools that simplify life, enhance well-being, and foster creativity.
+      - Mission: "To bridge the gap between technology and everyday life through seamless, intuitive, and impactful mobile experiences."
+      - Purpose: Empowering users with tools that simplify life, enhance well-being, and foster creativity.
 
-## 1.3 Industry Positioning
+      ## 1.3 Industry Positioning
 
-- Market Share: Top 5% in mobile app development.
-- Competitive Edge: AI-driven personalization, ethical monetization, and superior UX.
-- Key Differentiators:
-- No intrusive ads
-- GDPR &amp; CCPA compliance
-- Free educational apps for NGOs
+      - Market Share: Top 5% in mobile app development.
+      - Competitive Edge: AI-driven personalization, ethical monetization, and superior UX.
+      - Key Differentiators:
+      - No intrusive ads
+      - GDPR &amp; CCPA compliance
+      - Free educational apps for NGOs
 
-## 1.4 Global Reach &amp; Market Impact
+      ## 1.4 Global Reach &amp; Market Impact
 
-- Regions: North America (45%), Europe (30%), Asia (20%), Emerging Markets (5%)
-- Languages Supported: 20+ languages
-- User Retention Rate: 75% (above industry average)
+      - Regions: North America (45%), Europe (30%), Asia (20%), Emerging Markets (5%)
+      - Languages Supported: 20+ languages
+      - User Retention Rate: 75% (above industry average)
 
-## 1.5 Key Milestones
+      ## 1.5 Key Milestones
 
-## Year Milestone
+      ## Year Milestone
 
-2020: Company founded by Zoey Zhang
+      2020: Company founded by Zoey Zhang
 
-2021: First 3 apps launched (1M+ downloads)
+      2021: First 3 apps launched (1M+ downloads)
 
-2022: $20M Series A funding secured
+      2022: $20M Series A funding secured
 
-2023: 100M+ total downloads
+      2023: 100M+ total downloads
 
-2024: Expansion into AR &amp; Metaverse apps
-
+      2024: Expansion into AR &amp; Metaverse apps
 
     questions_and_answers:
       - question: |
@@ -67,6 +66,91 @@ ZeeZeeTech is a pioneering mobile technology company headquartered in San Franci
           - 2023 100M+ total downloads
           - 2024 Expansion into AR &amp; Metaverse apps
 
+  - context: |
+      ZeeConnect is a revolutionary social networking app designed to bring neighbors together, fostering a sense of community and collaboration. With an incredible milestone of 30 million users and a strategic partnership with Nextdoor in 2022, ZeeConnect is changing the way you interact with those around you.
+      Whether it's organizing local events, sharing safety alerts, or engaging in community commerce, ZeeConnect makes it easy to stay connected with your neighbors. The app's standout feature, AI-powered geofencing, ensures that you only see posts and updates that are hyper-local, making your interactions more relevant and timely.
+      Seamlessly browse neighborhood happenings, communicate with fellow residents, and discover local businesses-all in one place. With ZeeConnect, you can participate in discussions tailored to your immediate surroundings, get real-time notifications about safety concerns, and shop from local vendors.
+    questions_and_answers:
+      - question: What is ZeeConnect?
+        answer: |
+          ZeeConnect is a social networking app designed to bring neighbors closer using a revolutionary approach.
+      - question: What can ZeeConnect be used for?
+        answer: |
+          ZeeConnect can be used to organize local events, sharing safety alerts, or engaging in community commerce.
+      - question: Which is the most relevant feature of ZeeConnect?
+        answer: |
+          ZeeConnect has AI-powered geofencing allowing users to iteract with the most trending local topics like safety alerts, re-stock of one of the top-requested product by a local vendor, or a cool party organized by a dearest childhood friend.
+          
+  - context: |
+      - Category : Brain Training
+      - Purpose : Daily logic puzzles with AI difficulty scaling.
+      - Key Feature : Global leaderboards with cash prizes.
+      - Challenge : Plagiarism claims from Lumosity (2021).
+
+      Introducing ZeePuzzle, the ultimate brain training app designed to sharpen your logic skills through engaging daily puzzles. Tailored for puzzle enthusiasts and casual players alike, ZeePuzzle offers a diverse range of challenges that adapt to your skill level, thanks to its innovative AI difficulty scaling feature. This ensures that every player remains challenged and motivated, no matter their experience.
+
+      A key feature of ZeePuzzle is its global leaderboards, where users can compete against players from around the world for cash prizes. This competitive element not only adds excitement to your daily puzzles but also fosters a vibrant community of like-minded individuals eager to test their mental agility.
+
+      Despite its impressive offerings, ZeePuzzle faced challenges including plagiarism claims from Lumosity in 2021. However, the team remains committed to providing original, high-quality content that enriches the user experience.
+
+      Ready to engage your brain and join the ranks of the world's top puzzlers? Download ZeePuzzle today and embark on a journey of daily logic challenges, where intelligence meets competition, and every puzzle conquered brings you closer to recognition and rewards!
+    questions_and_answers:
+    - question: How does ZeePuzzle ensure that its logic puzzles remain challenging for users of all experience levels?
+      answer: ZeePuzzle maintains an engaging experience for users of all skill levels through its AI difficulty scaling feature. This innovative system adjusts the complexity of puzzles in real time based on a user's performance, ensuring that both beginners and seasoned puzzle solvers are consistently challenged. This personalized approach keeps users motivated and supports continuous cognitive growth.
+
+    - question: What competitive aspect does ZeePuzzle offer to enhance user engagement, and how does it benefit the player community?
+      answer: ZeePuzzle features global leaderboards with cash prizes, adding a competitive edge to its daily brain training activities. This feature allows users to compete against players worldwide, motivating them to improve their puzzle-solving skills and engage more deeply with the app. The promise of recognition and rewards fosters a dynamic, interactive community of puzzle enthusiasts who are driven by both fun and competition.
+
+    - question: What controversy did ZeePuzzle face in 2021, and how did the company respond to it?
+      answer: In 2021, ZeePuzzle faced plagiarism claims from Lumosity, a well-known brain training platform. These allegations posed a reputational challenge for the app. In response, the ZeePuzzle team reaffirmed its commitment to creating original, high-quality puzzle content, emphasizing its dedication to delivering a unique and enriching user experience despite the controversy.
+
+  - context: |
+      - Category : Astronomy
+      - Purpose : AR stargazing guide with constellation alerts.
+      - Key Feature : Tracks meteor showers in real time.
+      - Milestone : Used by NASA for citizen science projects.
+
+      Introducing ZeeAstro, the ultimate astronomy app designed to transform the way you experience the night sky. Combining cutting-edge augmented reality (AR) technology with an intuitive interface, ZeeAstro serves as your personal guide to the stars, making stargazing accessible and enjoyable for everyone, from beginners to seasoned astronomers.
+
+      With ZeeAstro, you can easily identify constellations, planets, and other celestial objects by simply pointing your device toward the sky. The app overlays informative labels and graphics, enriching your understanding of celestial formations in an engaging way.
+
+      ZeeAstro's standout feature is its real-time tracking of meteor showers, providing users with alerts when celestial events are occurring. This unique capability ensures that you never miss a spectacular sky show, allowing you to plan your stargazing activities around some of the most awe-inspiring astronomical phenomena.
+
+      Achieving a remarkable milestone, ZeeAstro has been utilized by NASA for various citizen science projects, showcasing its reliability and educational value. This collaboration underscores the app's commitment to fostering a deeper understanding of our universe while engaging the community in scientific exploration.
+
+    questions_and_answers:
+    - question: How does ZeeAstro help users identify celestial objects during stargazing?
+      answer: ZeeAstro uses augmented reality (AR) technology to help users identify celestial objects by overlaying informative labels and graphics when the device is pointed toward the sky. This feature makes it easy for users to recognize constellations, planets, and other astronomical formations, providing an educational and interactive stargazing experience for all skill levels.
+
+    - question: What makes ZeeAstro's meteor shower tracking feature unique, and how does it benefit users?
+      answer: ZeeAstro's meteor shower tracking feature is unique because it operates in real time and sends alerts to users when meteor showers are occurring. This allows users to plan their stargazing around significant celestial events, ensuring they don't miss out on visually striking and scientifically significant sky shows. It enhances the app's utility as both an educational tool and a planning guide for astronomical observation.
+
+    - question: Why is ZeeAstro's collaboration with NASA significant in terms of its credibility and purpose?
+      answer: ZeeAstro's collaboration with NASA is significant because it highlights the app's scientific reliability and educational value. Being used in NASA's citizen science projects validates the app's accuracy and usefulness in real-world scientific research. This milestone demonstrates ZeeAstro's commitment to fostering public engagement with astronomy while supporting professional scientific initiatives.
+
+  - context: |
+      - Category : AgTech
+      - Purpose : IoT app for small farmers to monitor crops.
+      - Key Feature : AI pest-detection via phone camera.
+      - Milestone : Deployed in Kenya and Vietnam.
+
+      Introducing ZeeFarm, an innovative AgTech app designed specifically for small farmers looking to enhance their crop management through advanced technology. By leveraging the Internet of Things (IoT), ZeeFarm provides a comprehensive solution that enables farmers to monitor their crops in real-time, ensuring optimal growth and yield.
+
+      One of the app's standout features is its AI-powered pest detection system, which utilizes your phone camera to identify pests and diseases in crops quickly and accurately. This cutting-edge technology allows farmers to address potential issues proactively, reducing crop loss and minimizing pesticide use.
+
+      ZeeFarm has already made a significant impact with its deployment in Kenya and Vietnam, empowering local farmers with the tools needed to make informed decisions about their agricultural practices. This milestone not only showcases the app's versatility but also its potential to transform farming methods in developing regions.
+
+      Designed with user-friendliness in mind, ZeeFarm offers intuitive navigation and insightful analytics that help farmers optimize their operations.
+
+    questions_and_answers:
+    - question: How does ZeeFarm assist small farmers in managing their crops more effectively?
+      answer: ZeeFarm assists small farmers by using Internet of Things (IoT) technology to enable real-time monitoring of crops. This allows farmers to track various growth conditions and respond quickly to any issues, helping them improve yield and maintain crop health. The app's accessible design and data-driven insights make it a practical tool for enhancing agricultural efficiency.
+
+    - question: What is the function of ZeeFarm's AI pest-detection feature, and how does it benefit farmers?
+      answer: ZeeFarm's AI pest-detection feature allows farmers to use their phone cameras to scan crops for signs of pests and diseases. The app analyzes the images and provides quick, accurate diagnoses. This proactive tool helps reduce crop loss by identifying issues early and minimizes the need for excessive pesticide use, ultimately promoting healthier, more sustainable farming practices.
+
+    - question: Why is ZeeFarm's deployment in Kenya and Vietnam considered a significant milestone?
+      answer: ZeeFarm's deployment in Kenya and Vietnam is a significant milestone because it demonstrates the app's real-world impact in diverse agricultural environments. By equipping small farmers in these countries with advanced monitoring and pest-detection tools, ZeeFarm has shown its ability to address challenges in resource-limited settings and contribute to more resilient and informed farming communities.
 
 
 document:
