@@ -1,0 +1,76 @@
+version: 3
+domain: Company Information
+created_by: bilal-rh
+document_outline: |
+  Information about the Zee Zee Tech company including their mobile app products.
+seed_examples:
+  - context: |
+     ## 1: Introduction to ZeeZeeTech
+
+## 1.1 Overview of ZeeZeeTech
+
+ZeeZeeTech is a pioneering mobile technology company headquartered in San Francisco, California. Since its inception in 2020, the company has revolutionized digital experiences through intuitive, AI-powered applications. With a portfolio spanning productivity, health, finance, and entertainment, ZeeZeeTech serves over 100 million users globally.
+
+## 1.2 Mission &amp; Purpose
+
+- Mission: "To bridge the gap between technology and everyday life through seamless, intuitive, and impactful mobile experiences."
+- Purpose: Empowering users with tools that simplify life, enhance well-being, and foster creativity.
+
+## 1.3 Industry Positioning
+
+- Market Share: Top 5% in mobile app development.
+- Competitive Edge: AI-driven personalization, ethical monetization, and superior UX.
+- Key Differentiators:
+- No intrusive ads
+- GDPR &amp; CCPA compliance
+- Free educational apps for NGOs
+
+## 1.4 Global Reach &amp; Market Impact
+
+- Regions: North America (45%), Europe (30%), Asia (20%), Emerging Markets (5%)
+- Languages Supported: 20+ languages
+- User Retention Rate: 75% (above industry average)
+
+## 1.5 Key Milestones
+
+## Year Milestone
+
+2020: Company founded by Zoey Zhang
+
+2021: First 3 apps launched (1M+ downloads)
+
+2022: $20M Series A funding secured
+
+2023: 100M+ total downloads
+
+2024: Expansion into AR &amp; Metaverse apps
+
+
+    questions_and_answers:
+      - question: |
+          What is Zee Zee Tech's major market share in different regions?
+        answer: |
+          Zee Zee Tech's market share in North America (45%), in Europe (30%), in Asia (20%) and 5% in Emerging Markets.
+      - question: |
+          What sets Zee Zee Tech apart?
+        answer: |
+          Zee Zee Tech has market edge due to AI-driven personalization, ethical monetization, and superior UX.
+      - question: |
+         What are the key milestones that ZeeZeeTech has achieved in last 5 years?
+        answer: |
+          
+          Zee Zee Tech major milestones in last 5 years include
+          
+          - 2020 Company founded by Zoey Zhang
+          - 2021 First 3 apps launched (1M+ downloads)
+          - 2022 $20M Series A funding secured
+          - 2023 100M+ total downloads
+          - 2024 Expansion into AR &amp; Metaverse apps
+
+
+
+document:
+  repo: https://github.com/bilal-rh/ilab1
+  commit: 0a1f2672b9b90582e6115333e3ed62fd628f1c0f
+  patterns:
+    - zeezeetech.md
