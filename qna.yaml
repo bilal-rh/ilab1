@@ -155,6 +155,6 @@ seed_examples:
 
 document:
   repo: https://github.com/bilal-rh/ilab1
-  commit: 0a1f2672b9b90582e6115333e3ed62fd628f1c0f
+  commit: 265a99ffedb9280fe166fa2fa97caef92a68e050
   patterns:
     - zeezeetech.md
